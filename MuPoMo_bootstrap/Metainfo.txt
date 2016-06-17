@@ -4,11 +4,11 @@ Published in :      MuPoMo
 
 Description :      'Forecasts mortality rates based on a semi-parametric approach, and bootstraps time series with innovation to compute the prediction intervals. Uses random two countries to demonstrate.'
 
-Keywords :         ‘time series, demography, mortality, population, nonparametric smoothing, parametric modelling, Lee-Carter method,
-                    bootstrap’
+Keywords :         'time series, demography, mortality, population, nonparametric smoothing, parametric modelling, Lee-Carter method,
+                    bootstrap'
 
-See also :         ‘MuPoMo_data, MuPoMo_optimization, MuPoMo_normalization, 
-                    MuPoMo_referencecurve, MuPoMo_main_twopop, MuPoMo_main_multipop’
+See also :         'MuPoMo_data, MuPoMo_optimization, MuPoMo_normalization, 
+                    MuPoMo_referencecurve, MuPoMo_main_twopop, MuPoMo_main_multipop'
 
 Author :            Lei Fang
 
