@@ -64,7 +64,7 @@ for (i in 1:(loop.31 - 1)) {
         sep = ""))))
     assign(nam7, temp3)
 }
-reference0.temp = rowMeans(merge31, na.rm = TRUE)
+reference0.temp = rowMeans(merge30, na.rm = TRUE)
 reference0      = ts(reference0.temp, start = Sweden$year[1], frequency = 1)
 
 ## plot the reference curve among all 31 smoothed curves
