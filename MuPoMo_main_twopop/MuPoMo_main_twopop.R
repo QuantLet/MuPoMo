@@ -21,7 +21,7 @@ source('MuPoMo_data.R')
 source("MuPoMo_optimization.R")
 
 # choose two countries' kt for this analysis
-kt1 = kt.China.female
+kt1 = kt.Taiwan.female
 kt2 = kt.Japan.female
 
 # set bandwidth for smoothing curves
@@ -32,7 +32,7 @@ plot(kt2, type = "l", col = "blue", lwd = 4, xlab = "Time", ylab = "Kt")
 lines(kt1, col = "red", lwd = 4)
 
 # shift movement of the two smoothed countries
-t1         = 1994:2010 # differ based on the chosen country
+t1         = 1970:2019 # differ based on the chosen country
 d1         = data.frame(time(kt1), kt1)
 h.optimal1 = h.select(time(kt1), kt1)
 sm1        = sm.regression(time(kt1), kt1, h = h.optimal1, eval.points = time(kt1), model = "none", poly.index = 1, display = "none")
