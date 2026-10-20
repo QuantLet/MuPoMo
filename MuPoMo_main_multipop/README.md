@@ -9,11 +9,11 @@ Name of QuantLet: MuPoMo_main_multipop
 
 Published in: MuPoMo
 
-Description: Estimates and forecasts mortality rates based on a semi-parametric approach, which applies parametric modelling for
+Description: Estimates and forecasts mortality rates based on a semi-parametric approach, which applies parametric modelling for multiple nonparametric smoothed curves with the shape-related nonlinear variation.
 
 Keywords: time series, demography, mortality, population, nonparametric smoothing, parametric modelling, Lee-Carter method
 
-See also: MuPoMo_data, MuPoMo_optimization, MuPoMo_normalization,
+See also: MuPoMo_data, MuPoMo_optimization, MuPoMo_normalization, MuPoMo_referencecurve, MuPoMo_main_twopop, MuPoMo_bootstrap
 
 Author: Lei Fang
 
