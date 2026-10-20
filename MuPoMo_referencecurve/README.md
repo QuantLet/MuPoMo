@@ -9,11 +9,11 @@ Name of QuantLet: MuPoMo_referencecurve
 
 Published in: MuPoMo
 
-Description: Regenerates reference curve (common trend) based on normalized optimal theta parameters and smoothed original kt,
+Description: Regenerates reference curve (common trend) based on normalized optimal theta parameters and smoothed original kt, and will be called in MuPoMo_main_multipop.
 
 Keywords: time series, demography, mortality, population, normalization
 
-See also: MuPoMo_data, MuPoMo_optimization, MuPoMo_normalization,
+See also: MuPoMo_data, MuPoMo_optimization, MuPoMo_normalization, MuPoMo_main_twopop, MuPoMo_main_multipop, MuPoMo_bootstrap
 
 Author: Lei Fang
 
