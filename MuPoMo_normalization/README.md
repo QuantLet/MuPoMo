@@ -9,11 +9,11 @@ Name of QuantLet: MuPoMo_normalization
 
 Published in: MuPoMo
 
-Description: Normalizes optimal shape variation parameters theta estimated from MuPoMo_optimization, and will be
+Description: Normalizes optimal shape variation parameters theta estimated from MuPoMo_optimization, and will be called in MuPoMo_main_multipop.
 
 Keywords: time series, demography, mortality, population, normalization
 
-See also: MuPoMo_data, MuPoMo_optimization, MuPoMo_referencecurve,
+See also: MuPoMo_data, MuPoMo_optimization, MuPoMo_referencecurve, MuPoMo_main_twopop, MuPoMo_main_multipop, MuPoMo_bootstrap
 
 Author: Lei Fang
 
