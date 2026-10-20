@@ -9,11 +9,11 @@ Name of QuantLet: MuPoMo_optimization
 
 Published in: MuPoMo
 
-Description: Optimizes shape variation parameters theta based on kt and reference curve
+Description: Optimizes shape variation parameters theta based on kt and reference curve to update new kt, and will be called in MuPoMo_main_twopop and MuPoMo_main_multipop.
 
 Keywords: time series, demography, mortality, population, nonlinear, optimization, non parametric smoothing
 
-See also: MuPoMo_data, MuPoMo_normalization, MuPoMo_referencecurve,
+See also: MuPoMo_data, MuPoMo_normalization, MuPoMo_referencecurve, MuPoMo_main_twopop, MuPoMo_main_multipop, MuPoMo_bootstrap
 
 Author: Lei Fang, Juhyun Park
 
