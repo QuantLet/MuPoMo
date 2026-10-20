@@ -9,11 +9,11 @@ Name of QuantLet: MuPoMo_data
 
 Published in: MuPoMo
 
-Description: Reads data from Human Mortality Database and calculate kt, and will be called
+Description: Reads data from Human Mortality Database and calculate kt, and will be called in MuPoMo_main_twopop and MuPoMo_main_multipop.
 
 Keywords: time series, demography, mortality, Lee-Carter method, population, Human Mortality Database
 
-See also: MuPoMo_optimization, MuPoMo_normalization, MuPoMo_referencecurve,
+See also: MuPoMo_optimization, MuPoMo_normalization, MuPoMo_referencecurve, MuPoMo_main_twopop, MuPoMo_main_multipop, MuPoMo_bootstrap
 
 Author: Lei Fang
 
